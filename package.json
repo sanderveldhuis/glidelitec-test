@@ -8,5 +8,8 @@
   },
   "bin": {
     "glc": "./bin/glc"
+  },
+  "devDependencies": {
+    "typescript": "^5.7.3"
   }
 }
