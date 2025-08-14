@@ -2,6 +2,10 @@
   "name": "glidelitec-test",
   "version": "1.0.0",
   "description": "Test variant of Glidelite Compiler",
+  "scripts": {
+    "build": "echo 'BUILD'",
+    "setup-hooks": "echo 'SETUP HOOKS'"
+  },
   "bin": {
     "glc": "./bin/glc"
   }
