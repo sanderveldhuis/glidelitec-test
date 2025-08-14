@@ -9,7 +9,7 @@
   "bin": {
     "glc": "./bin/glc"
   },
-  "devDependencies": {
+  "dependencies": {
     "typescript": "^5.7.3"
   }
 }
