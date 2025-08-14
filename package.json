@@ -1,5 +1,8 @@
 {
   "name": "glidelitec-test",
   "version": "1.0.0",
-  "description": "Test variant of Glidelite Compiler"
+  "description": "Test variant of Glidelite Compiler",
+  "bin": {
+    "glc": "./bin/glc"
+  },
 }
