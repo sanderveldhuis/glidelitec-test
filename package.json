@@ -4,5 +4,5 @@
   "description": "Test variant of Glidelite Compiler",
   "bin": {
     "glc": "./bin/glc"
-  },
+  }
 }
